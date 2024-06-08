@@ -37,9 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # Django REST framework 
+    # Django REST framework
     'rest_framework',
-    # Tutorials application 
+    # Tutorials application
     'tutorials.apps.TutorialsConfig',
     # CORS
     'corsheaders',
